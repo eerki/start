@@ -9,6 +9,7 @@
 class Car
 {
     public $doors = 4;
+    public $windows = 5;
     public $gears = 6;
 }
 
