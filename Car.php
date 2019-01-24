@@ -9,6 +9,7 @@
 class Car
 {
     public $doors = 4;
+    public $gears = 6;
 }
 
 print_r(new Car());
